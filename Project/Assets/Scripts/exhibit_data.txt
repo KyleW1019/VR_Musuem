@@ -1,0 +1,198 @@
+<period>
+<time>
+Pre-War
+</time>
+<artist>
+Johnson Brothers
+<brief>
+Lift Ev’ry voice and sing
+</brief>
+<bio>
+James Weldon Johnson and his brother John Rosamond Johnson were born in Jacksonville during the 1870’s. Both brothers had remarkable careers. James was a notable lawyer, writer, and civil rights activist. John began his music career at the age of 4 when he began to play the piano. He also was a teacher, and it was during his time teaching that he began teaching his students his most notable work, “Lift Ev’ry Voice and Sing” which would be later dubbed the unofficial Black Nation Anthem.
+</bio>
+</artist>
+
+<artist>
+Arthur 'Blind' Blake
+<brief>
+Early blues guitarist
+West Ashley Street blues
+</brief>
+<bio>
+Arthur 'Blind' Blake was most likely born in Virginia sometime between 1895 and 1897. He was best known for his ability to play the blues guitar. In fact, many people have referred to him as the “King of Ragtime Guitar”. HE is best known for his song “West Ashley Street Blues”. He was often seen playing music around the Jacksonville area where he often lived before moving to Chicago. However great he was, his music career was short lived due to the struggling music industry during the great depression. Soon after he would die in 1934 due to complications from tuberculosis. 
+</bio>
+</artist>
+
+<artist>
+Fredrick Delius
+<brief>
+19th Century Composer
+Managed family citrus farm in Jacksonville
+Notable composition : “Florida”
+</brief>
+<bio>
+Fredrick Delius lived in Jacksonville from 1884 – 1885. He was sent here by his father to manage and watch after the family citrus farm that was located on the banks of the St. Johns River. The Yorkshire England native was best known for his contributions to the English music revival of the late 19th century. His best-known work, “Florida” represents his time spent in Jacksonville. Along with his song, “Florida”, he composed several operas like, “Irmelin”.
+</bio>
+</artist>
+</period>
+
+
+<period>
+<time>
+1950's
+</time>
+<artist>
+Mae Axton
+<brief>
+Taught school at Paxton High
+Helped local novice musicians
+Local radio DJ
+Co-wrote heartbreak hotel with tommy Durden for Elvis Presly 
+</brief>
+<bio>
+Mae Axton was born in Bardwell Texan in 1914. Her husband John, an officer in the US Navy, was stationed at the Jacksonville Naval Base. This ultimately would be where the two stayed for some time. Mae, who had several connections in the music industry, began writing music with musicians from the area like Tommy Durden, who she would later write Elvis’s Hit “Heart Break Hotel” with, and Glen Reeves. It was also during this time that she became a radio disc jockey and a music promoter. Other works by her include, “Pick me up on your way down” sung by Patsy Cline and “Honey Bop” sung by Wando Jackson. She worked with several artists including Mel Tillis, Willie Nelson, Dolly Parton, and many more. 
+</bio>
+</artist>
+
+<artist>
+Pat Boone
+<brief>
+Host of the “The Pat Boone Show – Chevy Showroom” 
+“Two Hearts, Two Kisses” and “April Love” 
+</brief>
+<bio>
+Pat Boone was born June 1, 1934, in Jacksonville Florida. Boones career began very young as he was winning talent shows in the early 50’s. It was after this that he began to appear on many shows like “Ted Mack and the Original Amateur Hour”. In 1955, Boone released his first single “Two Hearts, Two Kisses”. In 1957, he began hosting, “The Pat Boone Show – Chevy Showroom” and continued his acting career with appearances in “April Love” and “Journey to the Center of the Earth”. His last major hit was “Speedy Gonzales” in 1962. As the British Invasion era of music began, his popularity began to decrease, and he turned to Gospel Music and Country Music. In 2000 He founded his own record label named “The Gold Label”.
+</bio>
+</artist>
+</period>
+
+
+<period>
+<time>
+1960's
+</time>
+<artist>
+Ray Charles
+<brief>
+Attended the School for the Deaf and Blind in St. Augustine
+"Georgia on my Mind" and "Hit the Road Jack"
+Rock and Roll Hall of Fame Inductee
+</brief>
+<bio>
+Ray Charles was born on September 23, 1930, in Albany Georgia. His family moved to Greenville Florida shortly after he was born. He started to play the piano at the age of 5. When he was 6, he began to lose his sight most likely due to glaucoma, and he was completely blind by the age of 7. He then attended the Florida School for the Deaf and Blind in St Augustine until he was 15. When he left the school, he began performing his piano skills professionally. It was this skill that made him known as “The Genius” of soul music. His greatest hits include “Georgia on my Mind”, “Hit the Road Jack”, along with many others. He has a successful acting career with appearances in movies like The Blues Brothers where he played himself. He was inducted into the Rock and Roll Hall of Fame in 1986. He passed away June 10, 2004, due to liver failure. 
+</bio>
+</artist>
+
+<artist>
+Classics IV
+<brief>
+Formed in Jacksonville in the late 1960’s
+“Stormy” and "Spooky”
+Walter Eaton was a professor at FSCJ
+</brief>
+<bio>
+The Classic IV originated in the city of Jacksonville and was influential during the 1960’s and 1970’s. The band originally consisted of J.R. Cobb, Walter Eaton, Joe Wilson, Greg Carrol, and founder Dennis Yost. The bands most notable songs were, “Stormy” and “Spooky”. Yet, throughout the years, their sounds differed from their original sound.
+</bio>
+</artist>
+</period>
+
+<period>
+<time>
+1970's
+</time>
+<artist>
+The Allman Brothers Band
+<brief>
+One of the Earliest Southern Rock Bands
+"Midnight Rider", "Ramblin' Man", 
+"Melissa" and "Statesboro Blues"
+Rock and Roll Hall of Fame Inductee
+</brief>
+<bio>
+The Allman Brothers Band, founded in Jacksonville during 1969, helped introduce the iconic southern rock sound. They are often referred to as the most influential rock band. The band originally toured around Florida and Georgia trying to find their own sound. Their sound consisted of a new twin-lead guitar which made their music unlike anything anyone had heard before. Their debut album attracted many fans and helped the success of their second album Idlewind South which had one of their most popular songs “Midnight Rider”. Their concerts soon gained popularity due to their unique sound that made them so different from any other rock band at the time. Their third album, At Filmore East, never reached the top 10, but it did reach certified gold. Duane Allman, leader and guitar player of the band, died two week later in a motorcycle accident. This did not stop them from releasing their album Eat a Peach which was their first album to reach the top 10. After several albums and hit songs, the band broke up in 1976 when Gregg Allman was involved in a federal drug case. The band did, however, reunite in 1978 but was never the same. Some of their most popular songs included, “Ramblin’ Man”, “Melissa”, and “Statesboro Blues”.    
+</bio>
+</artist>
+
+<artist>
+Lynard Skynyrd
+<brief>
+"Free Bird", "Simple Man", 
+"Gimme Three Steps", "Sweet Home Alabama"
+Rock and Roll Hall of Fame Inductee
+</brief>
+<bio>
+Lynard Skynyrd was one of the most influential bands of all time. Founded in Jacksonville in 1964. They rose to fame during the southern rock era. Their gritty rock guitar sounds became iconic through the years and have influenced many artists. They began playing in Jacksonville under various band names, but eventually settled on Lynard Skynyrd. The name originated as a backhanded comment to a high school teacher who hated the band’s iconic long hair. Their first album, Pronounced Leh-Nerd Skin-Nerd, debuted their song “Free Bird” which was a tribute to Duane Allman, a member of the Allman Brothers Band. This album also included “Gimme Three Steps” and “Simple Man”. Even with their first album, the band changed the history of rock music forever. Other works of theirs include “Sweet Home Alabama” and “Tuesdays Gone”. The band eventually disbanded after several year of success due to a plane crash which killed several members.
+</bio>
+</artist>
+</period>
+
+
+<period>
+<time>
+1980's
+</time>
+<artist>
+.38 Special
+<brief>
+"Caught up in You" and "Second Chance"
+</brief>
+<bio>
+.38 Special formed in Jacksonville, Florida in the early 1970’s. The band’s leader, Donnie Van Zant, was brothers to Ronnie Van Zant, singer of Lynyrd Skynyrd. Their sound began as Southern Rock, but soon transitioned to more hard rock. The band signed with A&M records in 1977. Their popularity skyrocketed during the 80’s with their hits like “Caught Up in You” and “If I’d Been the One”, but their biggest hit was “Second Chance” which was released in 1989. Soon after this his, their popularity began to decrease throughout the 1990’s.
+</bio>
+</artist>
+</period>
+
+
+<period>
+<time>
+1990's
+</time>
+<artist>
+Ma$e
+<brief>
+"Harlem World", "Mo' Money, Mo' Problems", 
+"Can't Nobody Hold Me Down"
+</brief>
+<bio>
+Ma$e was born in Jacksonville, Florida, in 1975. He would live in several places as a child, but eventually would find himself in New York where he began rapping with members of his basketball team. Eventually, he would join a group named Children of the Corn, but would soon find himself performing solo after the group broke up. He was soon signed by Bad Boy after meeting Sean “Puffy” Combs in 1996. He rapped on Combs remix of “Only You”, and after this, he found himself on almost every project Combs release. He rapped on songs like “Mo’ Money, Mo’ Problems” and “Cant Nobody Hold Me Down”. He would release his own album, Harlem World, in 1997. Harlem World was an instant hit and spent its first two weeks on top of the billboard’s album charts. However, one year later he was arrested for disorderly conduct and was shrouded in controversies, but this did not stop him from releasing the album The Movement in 1999 with his own group also named Harem World. He released his own album Double Up soon after. However, he announced retirement wanting to pursue ministry after a so-called vision of himself leading people into hell. He worked with youth groups, was an inspirational speaker, and released a memoir before releasing his final album Welcome Back in 2004.
+</bio>
+</artist>
+</period>
+
+
+<period>
+<time>
+2000's
+</time>
+<artist>
+Tim McGraw
+<brief>
+“Live Like You were Dying”, 
+“Don’t Take the Girl”, and “I like it, I Love it”
+</brief>
+<bio>
+Tim McGraw, son of pitcher Tug McGraw, was born in Delhi, Louisiana in 1967. He lived in Jacksonville Florida from 1987 – 1989. His career began in the 90’s when his music exploded in the music industry after he signed a contract with Curb Records in 1990. However, he originally was not popular as his debut was unsuccessful, but his second album Not a Moment Too Soon was the highest selling country album of 1994. Soon after, in 1996, he married country star Faith Hill. McGraw still sees music success today with hits like, “Live Like You were Dying”, “Don’t Take the Girl”, and “I like it, I Love it”, and overall, he is one of the most successful country music singers to date.
+</bio>
+</artist>
+
+<artist>
+Shine Down
+<brief>
+“Fly from the Inside”, 
+"Second Chances", and "45"
+</brief>
+<bio>
+Hard Rock band, Shinedown, started in Jacksonville Florida and gained popularity throughout the early 2000’s. Signing with Atlantic Records in the early 21st century, the group released their first album Leave a Wisper which would go platinum with the help of the song “Fly from the Inside”. Shinedown is known for their intense and entertaining live shows which would lead to the release of their second album of these live shows named Us and Them. Their third album, Sounds of Madness, had 6 singles and went double platinum. Some of their works include “Second Chances” and “45”.  
+</bio>
+</artist>
+
+<artist>
+Yellowcard
+<brief>
+"Ocean Avenue", "Only One"
+</brief>
+<bio>
+Yellowcard formed in Jacksonville in 1997, but did not reach success until the early 2000’s.  Their first album, One for the Kids, debuted in 2001. While the band has had several different members throughout the years, that did not stop them from going double platinum in 2004 with Ocean Avenue. Ocean Avene has songs like, “Way Away” and, “Only One”. The band toured until 2017 after the final tour of their last album. However, the band reunited in 2022 and still tours today.
+</bio>
+</artist>
+</period>
